@@ -1,0 +1,22 @@
+Accounts
+CRM
+Buying
+Projects
+Selling
+Setup
+Manufacturing
+Stock
+Support
+Utilities
+Assets
+Portal
+Maintenance
+Regional
+ERPNext Integrations
+Quality Management
+Communication
+Loan Management
+Telephony
+Bulk Transaction
+E-commerce
+Subcontracting
